@@ -1,0 +1,4 @@
+.env
+tweets/
+.~*
+spark-twitter-mentions.csv
